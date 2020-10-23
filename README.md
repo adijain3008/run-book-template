@@ -11,7 +11,7 @@ There are two main files:
 	<img src="Run-Book-dialogue-sheet.png" title="Download a PDF of the Run Book dialogue sheet" alt="Download a PDF of the Run Book dialogue sheet" width="300px" style="border: 1px solid gray;" />
 </a>
 
-## Overview
+## Step 1 - Overview
 
 The file `run-book-template.md` contains suggested checks and procedures for most non-trivial software systems that can be used as **a template to create a Run Book or System Operation Manual** (SOM). Treat the resulting information as a starting point for discussions about operational readiness. 
 
